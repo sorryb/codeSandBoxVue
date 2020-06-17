@@ -1,5 +1,5 @@
 # codeSandBoxVue
-Created with CodeSandbox
+Created and published with CodeSandbox
 
 https://codesandbox.io/s/github/sorryb/codeSandBoxVue/tree/master/
 
